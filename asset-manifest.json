@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BAViewer/static/css/main.038cc46a.css",
+    "main.js": "/BAViewer/static/js/main.c5787c49.js",
+    "index.html": "/BAViewer/index.html",
+    "main.038cc46a.css.map": "/BAViewer/static/css/main.038cc46a.css.map",
+    "main.c5787c49.js.map": "/BAViewer/static/js/main.c5787c49.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.038cc46a.css",
+    "static/js/main.c5787c49.js"
+  ]
+}
