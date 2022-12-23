@@ -1,6 +1,6 @@
 {
-  "name": "Bazdid Akhar Viewer",
-  "homepage": "https://MahdiHabibiXr.github.io/BAViewer",
+  "name": "BA Viewer",
+  "homepage": "https://mahdihabibixr.github.io/BAViewer",
   "version": "22-12-16-0",
   "private": true,
   "dependencies": {
