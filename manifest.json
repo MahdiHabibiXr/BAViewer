@@ -1,6 +1,6 @@
 {
-  "short_name": "nerfstudio viewer",
-  "name": "Interactive NeRF viewer",
+  "short_name": "BazdidAkhar Viewer",
+  "name": "Interactive Virtual Tour Viewer",
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",

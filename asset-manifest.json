@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/BAViewer/static/css/main.038cc46a.css",
-    "main.js": "/BAViewer/static/js/main.c5787c49.js",
+    "main.js": "/BAViewer/static/js/main.1840632a.js",
     "index.html": "/BAViewer/index.html",
     "main.038cc46a.css.map": "/BAViewer/static/css/main.038cc46a.css.map",
-    "main.c5787c49.js.map": "/BAViewer/static/js/main.c5787c49.js.map"
+    "main.1840632a.js.map": "/BAViewer/static/js/main.1840632a.js.map"
   },
   "entrypoints": [
     "static/css/main.038cc46a.css",
-    "static/js/main.c5787c49.js"
+    "static/js/main.1840632a.js"
   ]
 }
